@@ -8,6 +8,7 @@ Magmacrunch media is a creative collective that produces music, film, video game
 - [magmacrunch.com](https://magmacrunch.com) — the site
 - [arcade](https://magmacrunch.com/arcade/) — 20+ retro pixel games
 - [archive](https://magmacrunch.com/archive/) — music catalog
+- [wiki](https://github.com/magmacrunchmedia/magmacrunchmedia/wiki) — cross-project documentation
 - [Bandcamp](https://magmacrunch.bandcamp.com/) / [Spotify](https://open.spotify.com/playlist/7IUU00YYlHLDBTC7tvXNEY) / [SoundCloud](https://soundcloud.com/magmacrunch) — listen
 
 <h3 align="left">Connect with us:</h3>
