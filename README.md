@@ -12,12 +12,12 @@ Magmacrunch media is a creative collective that produces music, film, video game
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
-<a href="https://magmacrunch.bandcamp.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/bandcamp.svg" alt="bandcamp" height="30" width="40" /></a>
+<a href="https://magmacrunch.bandcamp.com/" target="blank"><img align="center" src="https://cdn.simpleicons.org/bandcamp/629aa0" alt="bandcamp" height="30" width="40" /></a>
 <a href="https://open.spotify.com/playlist/7IUU00YYlHLDBTC7tvXNEY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="spotify" height="30" width="40" /></a>
 <a href="https://soundcloud.com/magmacrunch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="soundcloud" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@magmacrunch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
 <a href="https://www.instagram.com/magmacrunch/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.tiktok.com/@magmacrunch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="tiktok" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@magmacrunch" target="blank"><img align="center" src="https://cdn.simpleicons.org/tiktok/000000" alt="tiktok" height="30" width="40" /></a>
 <a href="https://www.facebook.com/magmacrunch/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 </p>
 
