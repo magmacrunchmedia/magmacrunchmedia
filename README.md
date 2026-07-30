@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magmacrunchmedia&label=Profile%20views&color=0e75b6&style=flat" alt="magmacrunchmedia" /> </p>
 
-Magmacrunch media is a creative collective that produces music, film, video games, web tools, writing, and more. Based across the United States, the collective was founded in 2023 as an independent record label and continues to branch out into other areas of art and technology.
+magmacrunch media is a creative collective that produces music, film, video games, web tools, writing, and more. Based across the United States, the collective was founded in 2023 as an independent record label and continues to branch out into other areas of art and technology.
 
 - [magmacrunch.com](https://magmacrunch.com) — the site
-- [arcade](https://magmacrunch.com/arcade/) — 20+ retro pixel games
-- [archive](https://magmacrunch.com/archive/) — music catalog
 - [wiki](https://github.com/magmacrunchmedia/magmacrunchmedia/wiki) — cross-project documentation
 - [Bandcamp](https://magmacrunch.bandcamp.com/) / [Spotify](https://open.spotify.com/playlist/7IUU00YYlHLDBTC7tvXNEY) / [SoundCloud](https://soundcloud.com/magmacrunch) — listen
 
