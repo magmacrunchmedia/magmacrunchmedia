@@ -9,7 +9,7 @@ magmacrunch media is a creative collective that produces music, film, video game
 - [wiki](https://github.com/magmacrunchmedia/magmacrunchmedia/wiki) — cross-project documentation
 - [Bandcamp](https://magmacrunch.bandcamp.com/) / [Spotify](https://open.spotify.com/playlist/7IUU00YYlHLDBTC7tvXNEY) / [SoundCloud](https://soundcloud.com/magmacrunch) — listen
 
-<h3 align="left">Connect with us:</h3>
+<h3 align="left">connect with us:</h3>
 <p align="left">
 <a href="https://magmacrunch.bandcamp.com/" target="blank"><img align="center" src="https://cdn.simpleicons.org/bandcamp/629aa0" alt="bandcamp" height="30" width="40" /></a>
 <a href="https://open.spotify.com/playlist/7IUU00YYlHLDBTC7tvXNEY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="spotify" height="30" width="40" /></a>
@@ -20,7 +20,7 @@ magmacrunch media is a creative collective that produces music, film, video game
 <a href="https://www.facebook.com/magmacrunch/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">languages & tools:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
