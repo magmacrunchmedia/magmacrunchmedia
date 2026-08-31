@@ -6,6 +6,7 @@
 magmacrunch media is a creative collective that produces music, film, video games, web tools, writing, and more. Based across the United States, the collective was founded in 2023 as an independent record label and continues to branch out into other areas of art and technology.
 
 - [magmacrunch.com](https://magmacrunch.com)
+- [GitHub org]([https://magmacrunch.com](https://github.com/magmacrunch-media))
 - [Bandcamp](https://magmacrunch.bandcamp.com/) / [Spotify](https://open.spotify.com/playlist/7IUU00YYlHLDBTC7tvXNEY) / [SoundCloud](https://soundcloud.com/magmacrunch) 
 
 <h3 align="left">connect with us:</h3>
