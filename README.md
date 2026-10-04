@@ -5,7 +5,33 @@
 
 magmacrunch media is a creative collective that produces music, film, video games, web tools, writing, and more. Based across the United States, the collective was founded in 2023 as an independent record label and continues to branch out into other areas of art and technology.
 
-This account only holds this page. The work is in the [magmacrunch-media](https://github.com/magmacrunch-media) org, and most of it you can play or use at [magmacrunch.com](https://magmacrunch.com): [the arcade](https://magmacrunch.com/arcade/), [ware](https://magmacrunch.com/ware/), [the archive](https://magmacrunch.com/archive/).
+This account only holds this page. The code is in the [magmacrunch-media](https://github.com/magmacrunch-media) org.
+
+<h3 align="left">what we make</h3>
+
+- **[the arcade](https://magmacrunch.com/arcade/)** — over twenty games you can play in a browser. Board games, card games, puzzles, action games. A few also run in a terminal or on a Wii.
+- **[ware](https://magmacrunch.com/ware/)** — browser tools: a sprite editor, an image signal chain, an album art maker, a media search. This section also documents the engines behind the games.
+- **[the archive](https://magmacrunch.com/archive/)** — recordings, releases, works, places, and the people who made them.
+- **[music](https://magmacrunch.com/music/)** and **[visual](https://magmacrunch.com/visual/)** — records, music videos, and design work.
+
+All of it is free, and none of it needs an account.
+
+<h3 align="left">install</h3>
+
+```sh
+pip install magmacrunch     # the arcade, in a terminal
+pip install magmascript     # a small scripting language
+pip install texastoast      # a Python RPG engine
+brew install magmacrunch-media/tap/magmascript
+```
+
+Seven `@magmacrunch/adenosine-*` packages on [npm](https://www.npmjs.com/org/magmacrunch) are the engines behind the web arcade.
+
+<h3 align="left">source</h3>
+
+Most of the org's repositories are private. The games and tools are still free, and the engines are each written up in [ware](https://magmacrunch.com/ware/).
+
+For source access, licensing, press, or anything else: **[info@magmacrunch.com](mailto:info@magmacrunch.com)**
 
 - [magmacrunch.com](https://magmacrunch.com)
 - [GitHub org](https://github.com/magmacrunch-media)
